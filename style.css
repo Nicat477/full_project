@@ -747,3 +747,6 @@ footer .copyright{
     color:#c9cbce;
     z-index:-9;
 }
+#page-header.about-header{
+    background-image:url("img/about/banner.png");
+}
